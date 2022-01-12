@@ -5,6 +5,7 @@ Bienvenidos al conversor de monedas 🪙
 2- Pesos argentinos
 3- Pesos mexicanos
 
+
 Elige una opción: """
 
 opcion = int(input(menu))
